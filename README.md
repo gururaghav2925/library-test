@@ -7,3 +7,4 @@ Because a component is not a stand-alone program, driver and/or stub software mu
 developed for each unit test. The unit test environment is illustrated in Figure 17.4. In most
 applications a driver is nothing more than a “main program” that accepts test case data, passes
 such data to the component (to be tested), and prints relevant results.
+![Screenshot_2021-05-07-23-07-43-54](https://github.com/user-attachments/assets/4d1f8c62-8bf2-468b-a905-db7d2e4c121b)
